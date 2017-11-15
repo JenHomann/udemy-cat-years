@@ -12,6 +12,7 @@
 		A305EBCE1FBCE08D00605EAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A305EBCC1FBCE08D00605EAC /* Main.storyboard */; };
 		A305EBD01FBCE08D00605EAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A305EBCF1FBCE08D00605EAC /* Assets.xcassets */; };
 		A305EBD31FBCE08D00605EAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A305EBD11FBCE08D00605EAC /* LaunchScreen.storyboard */; };
+		A305EBDB1FBCE14D00605EAC /* cat-years.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A305EBDA1FBCE14C00605EAC /* cat-years.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A305EBCF1FBCE08D00605EAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A305EBD21FBCE08D00605EAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A305EBD41FBCE08D00605EAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A305EBDA1FBCE14C00605EAC /* cat-years.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cat-years.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		A305EBC71FBCE08D00605EAC /* cat-years */ = {
 			isa = PBXGroup;
 			children = (
+				A305EBDA1FBCE14C00605EAC /* cat-years.jpg */,
 				A305EBC81FBCE08D00605EAC /* AppDelegate.swift */,
 				A305EBCA1FBCE08D00605EAC /* ViewController.swift */,
 				A305EBCC1FBCE08D00605EAC /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A305EBD31FBCE08D00605EAC /* LaunchScreen.storyboard in Resources */,
+				A305EBDB1FBCE14D00605EAC /* cat-years.jpg in Resources */,
 				A305EBD01FBCE08D00605EAC /* Assets.xcassets in Resources */,
 				A305EBCE1FBCE08D00605EAC /* Main.storyboard in Resources */,
 			);
